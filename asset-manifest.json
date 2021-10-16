@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/gerencial/static/js/main.1b3d9923.chunk.js",
-    "main.js.map": "/gerencial/static/js/main.1b3d9923.chunk.js.map",
+    "main.js": "/gerencial/static/js/main.f4ba62bb.chunk.js",
+    "main.js.map": "/gerencial/static/js/main.f4ba62bb.chunk.js.map",
     "runtime-main.js": "/gerencial/static/js/runtime-main.dedd7de8.js",
     "runtime-main.js.map": "/gerencial/static/js/runtime-main.dedd7de8.js.map",
     "static/css/2.b4ebbe46.chunk.css": "/gerencial/static/css/2.b4ebbe46.chunk.css",
-    "static/js/2.2111cd40.chunk.js": "/gerencial/static/js/2.2111cd40.chunk.js",
-    "static/js/2.2111cd40.chunk.js.map": "/gerencial/static/js/2.2111cd40.chunk.js.map",
+    "static/js/2.99bc325a.chunk.js": "/gerencial/static/js/2.99bc325a.chunk.js",
+    "static/js/2.99bc325a.chunk.js.map": "/gerencial/static/js/2.99bc325a.chunk.js.map",
     "static/js/3.3829bf89.chunk.js": "/gerencial/static/js/3.3829bf89.chunk.js",
     "static/js/3.3829bf89.chunk.js.map": "/gerencial/static/js/3.3829bf89.chunk.js.map",
     "index.html": "/gerencial/index.html",
     "service-worker.js": "/gerencial/service-worker.js",
     "service-worker.js.map": "/gerencial/service-worker.js.map",
     "static/css/2.b4ebbe46.chunk.css.map": "/gerencial/static/css/2.b4ebbe46.chunk.css.map",
-    "static/js/2.2111cd40.chunk.js.LICENSE.txt": "/gerencial/static/js/2.2111cd40.chunk.js.LICENSE.txt",
+    "static/js/2.99bc325a.chunk.js.LICENSE.txt": "/gerencial/static/js/2.99bc325a.chunk.js.LICENSE.txt",
     "static/media/policia-militar-brasao.f3915e72.png": "/gerencial/static/media/policia-militar-brasao.f3915e72.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dedd7de8.js",
     "static/css/2.b4ebbe46.chunk.css",
-    "static/js/2.2111cd40.chunk.js",
-    "static/js/main.1b3d9923.chunk.js"
+    "static/js/2.99bc325a.chunk.js",
+    "static/js/main.f4ba62bb.chunk.js"
   ]
 }
