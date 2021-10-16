@@ -1,1 +1,0 @@
-# gerencial
